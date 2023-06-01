@@ -41,7 +41,7 @@ public class TestMain {
         boolean expected = false;
 
         Assertions.assertEquals( expected, actual);
-// Test
+// Test 2
     }
 
     @Test
